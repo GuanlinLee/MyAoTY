@@ -16,10 +16,8 @@
 |                          Nicole                           |   NIKI    | 12-Aug-2022  |           Alt-Pop, Indie Pop           |        9         |
 |                     Division (Deluxe)                     | Jenevieve | 29-Apr-2022  | Alternative R&B, Contemporary R&B, R&B |       8.7        |
 |          The Rise and Fall of a Midwest Princess          |     Chappell Roan      | 22-Sept-2023 |      Synthpop, Dance-Pop, Alt-Pop      |       8.5        |
-|                                                           |           |              |                                        |                  |
 |                    we're all sad here                     |   Zevia   | 11-Feb-2022  |               India Pop                |       8.5        |
 |                  Paint My Bedroom Black                   |     Holly Humberstone      | 13-Oct-2023  |                Alt-Pop                 |       8.5        |
 |          The Land Is Inhospitable and So Are We           |      Mitski     | 15-Sept-2023 |        Indie Folk, Chamber Pop         |       8.5        |
 |                         Surrender                         |      Maggie Rogers     | 29-July-2022 |                Pop Rock                |        8         |
 |         Dragon New Warm Mountain I Believe In You         |      Big Thief     | 11-Feb-2022  |                  Indie Folk, Folk Rock                      |        8         |
-
