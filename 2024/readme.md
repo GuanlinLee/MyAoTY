@@ -8,6 +8,7 @@
 |   The Great American Bar Scene    |      Zach Bryan       | 4-July-2024  |              Country               |       9.2        |
 |            Proxy Music            |    Linda Thompson     | 21-June-2024 |         Contemporary Folk          |        9         |
 |             Big Ideas             |       Remi Wolf       | 12-July-2024 |        Pop Rock, Dance-Pop         |       8.7        |
+|                My Method Actor                   |            Nilüfer Yanya           | 13-Sept-2024 |                   Indie Rock, Art Rock                 |       8.5        |
 | What A Devastating Turn of Events |   Rachel Chinouriri   |  3-May-2024  |        Pop Rock, Indie Rock        |       8.5        |
 |       HIT ME HARD AND SOFT        |     Billie Eilish     | 17-May-2024  |              Alt-Pop               |       8.5        |
 |         Girl With No Face         |        Allie X        | 23-Feb-2024  |              Synthpop              |       8.5        |
