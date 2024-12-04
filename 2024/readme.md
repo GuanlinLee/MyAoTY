@@ -27,6 +27,7 @@
 |         Born in the Wild          |         Tems          | 6-June-2024  |    Contemporary R&B, Afrobeats     |        8         |
 |            Chaos Angel            |      Maya Hawke       | 31-May-2024  |             Indie Pop              |        8         |
 |             Glorious              |      Kate Hudson      | 17-May-2024  |                Pop                 |       7.5        |
+|                Short n' Sweet                   |            Sabrina Carpenter           | 23-Aug-2024  |                Pop                 |        7         |
 |         eternal sunshine          |     Ariana Grande     |  8-Mar-2024  |                Pop                 |        7         |
 |        DON'T MIND MY MIND         |         Zevia         | 7-June-2024  |             Indie Pop              |        7         |
 |              love,k               |     Katherine Li      | 14-Feb-2024  |                Pop                 |       6.5        |
