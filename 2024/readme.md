@@ -7,6 +7,7 @@
 |            Prelude to Ecstasy            | The Last Dinner Party |  2-Feb-2024  |  Glam Rock, Pop Rock, Indie Rock   |             9.5              |
 |              Good Together               |   Lake Street Dive    | 21-June-2024 |              Pop Soul              |             9.5              |
 |                  Charm                   |        Clairo         | 12-July-2024 |      Sophisti-Pop, Soft Rock       |             9.5              |
+|              Short n' Sweet              |   Sabrina Carpenter   | 23-Aug-2024  |                Pop                 |             9.5              |
 |       The Great American Bar Scene       |      Zach Bryan       | 4-July-2024  |              Country               |             9.2              |
 |               Proxy Music                |    Linda Thompson     | 21-June-2024 |         Contemporary Folk          |              9               |
 |     Mirror Starts Moving Without Me      |     Pom Pom Squad     | 25-Oct-2024  |              Alt-Pop               |              9               |
@@ -33,7 +34,6 @@
 |                 Glorious                 |      Kate Hudson      | 17-May-2024  |                Pop                 |             7.5              |
 |             eternal sunshine             |     Ariana Grande     |  8-Mar-2024  |                Pop                 |              7               |
 |            DON'T MIND MY MIND            |         Zevia         | 7-June-2024  |             Indie Pop              |              7               |
-|              Short n' Sweet              |   Sabrina Carpenter   | 23-Aug-2024  |                Pop                 |              7               |
 |                  love,k                  |     Katherine Li      | 14-Feb-2024  |                Pop                 |             6.5              |
 |                                          |                       |              |                                    |                              |
 |                                          |                       |              |                                    |                              |
